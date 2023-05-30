@@ -12,4 +12,4 @@ https://github.com/IsaacAndreu/php_for_laravel_developers
 
 I el resultat final de l'aplicació a:
 
-http://phpforlaravel.isaacandreu.me/
+http://phpforlaraveldef.isaacandreu.me/
